@@ -1,0 +1,66 @@
+/*
+Colours
+41d3bd Medium Turquoise
+fffff2 Ivory
+de6449 Jelly Bean
+791e94 Rebecca Purple
+407899 Queen Blue
+
+https://coolors.co/e7e3d7-2e2e2f-cf381e-12355b-420039
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Rajdhani:500|Raleway');
+
+.App {
+  /*text-align: center;*/
+  font-family: 'Raleway', sans-serif;
+  color: #2e2e2f;
+}
+
+h1 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 50px;
+  color: #2E2E2F;
+}
+
+h2 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 30px;
+  color: #2E2E2F;
+  margin-top: 0px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.secondary-color {
+  color: #cf381e;
+}
+
+.App-header {
+  /*background-color: #de6449;*/
+  padding: 20px 0px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.about {
+  margin-top: 20px;
+}
+
+.about-img {
+  max-width: 100%;
+}
+
+.underline {
+  background: #2E2E2F;
+  /*background: linear-gradient(to right, #2E2E2F , #cf381e);*/
+  /*background: #12355B;*/
+  /*border-radius: 2px;*/
+  height: 4px;
+  width: 100%;
+}
